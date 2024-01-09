@@ -16,4 +16,4 @@ As the name suggests, it's the hub for all of my projects, videos, and streams. 
 
 ### [sukadia.dev/ko-fi](https://ko-fi.com/sukadia/tiers)
 
-On Ko-fi I offer membership tiers (the equivalent of Patreon tiers) that'll grant you access to some resource-heavy features and other perks. With support I can continue paying to run my projects 24/7 and gather a lot more motivation to continue what I do.
+On Ko-fi I offer membership tiers (the equivalent of Patreon tiers) that grant access to any secret projects I'm working on and some extra YT content. With support I can continue paying to run my projects 24/7 and gather a lot more motivation to continue what I do.
